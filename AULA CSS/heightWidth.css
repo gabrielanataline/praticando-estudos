@@ -1,0 +1,21 @@
+/* .d1{
+    background-color: mediumseagreen;
+    height: 200px;
+    width: 200px;
+    padding: 50px 50px 50px 50px;
+
+}
+
+.d2{
+    background-color: cornflowerblue;
+    height: 100px;
+    max-width: 500px;
+
+}*/
+
+.t1{
+    display: none;
+}
+li{
+    display: inline;
+} 

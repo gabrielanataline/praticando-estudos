@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+
+        let n = parseInt(prompt('Digite a quantidade de números'))
+
+        for (cont=0; cont<n; cont++){
+            let x = Number(prompt('Digite um número'))
+
+            if (x==0){
+                alert('Par nulo')
+            } else {
+                if (x%2==0){
+                    if (x>0){
+                      alert('Par positivo')  
+             }  else {
+             alert('Par negativo')  
+                } 
+            } else {
+                    if (x>0){
+                    alert('Impar positivo')
+                } else {
+                    alert ('Impar negativo')
+                    }
+                }
+        }
+    }
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

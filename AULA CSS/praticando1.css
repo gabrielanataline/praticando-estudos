@@ -1,0 +1,12 @@
+body{
+    background-color: pink;
+}
+.titulo{
+    color: blueviolet;
+}
+.paragrafo{
+    color: mediumslateblue;
+}
+.border{
+    border: double violet;
+}
